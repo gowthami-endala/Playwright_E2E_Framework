@@ -1,0 +1,10 @@
+{
+    "burgerMenu":"#react-burger-menu-btn",
+    "menuClose": "#react-burger-cross-btn",
+    "sideBar":"#inventory_sidebar_link",
+    "about": "#about_sidebar_link",
+    "logout": "#logout_sidebar_link",
+    "reset":"#reset_sidebar_link",
+    "hiddenValue":"//div[@aria-hidden='false']"
+
+}

@@ -1,0 +1,22 @@
+{
+    "verifyFilterData": "select.product_sort_container",
+    "option1": "az",
+    "option2": "za",
+    "option3": "lohi",
+    "option4": "hilo",
+    "header": "#header_container",
+    "item_price": "//div[@class='inventory_item_price']",
+    "item_name": "//div[@class='inventory_item_name ']",
+    "productname": "[data-test='inventory-item-name']",
+    "remove": "#remove",
+    "backpack": "Sauce Labs Backpack",
+    "BacktoProducts": "#back-to-products",
+    "productDesc": "[data-test='inventory-item-desc']",
+    "productDescriptionData": "carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.",
+    "productPrice": "[data-test='inventory-item-price']",
+    "productPriceData": "$29.99",
+    "addtoCart": "#add-to-cart",
+    "addtoCartUpdate": "//a[@class='shopping_cart_link']/span",
+    "cartData": "1",
+    "productList": "[data-test='title']"
+}

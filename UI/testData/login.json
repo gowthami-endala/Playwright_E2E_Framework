@@ -1,0 +1,11 @@
+{
+
+    "username":"#user-name",
+    "pwd":"#password",
+    "usernameData": "standard_user",
+    "pwdData":"secret_sauce",
+    "loginBtn":"#login-button",
+    "header":"//div[@class='app_logo']"
+
+}
+  
